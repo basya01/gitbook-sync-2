@@ -1,6 +1,2 @@
----
-coverY: 0
----
-
-# First page
+# First page in first group
 
