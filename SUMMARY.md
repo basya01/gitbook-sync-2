@@ -3,6 +3,6 @@
 * [README](README.md)
 * [test](test.md)
 
-## First group
+## First group <a href="#first" id="first"></a>
 
-* [First page in first group](first-group/first-page-in-first-group.md)
+* [First page in first group](first/first.md)
